@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
-  - :bulb: [Medium articles](https://sundayhalf.medium.com/)
+  - :bulb: [Medium articles](https://klaothongchan.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/thongchan-th/)
 
 [![Klao's github stats](https://github-readme-stats.vercel.app/api?username=klaodevilz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
